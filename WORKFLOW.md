@@ -216,7 +216,7 @@ history = model.fit(
 |--------|--------|
 | Training Accuracy | > 90% |
 | Validation Accuracy | > 85% |
-| Test Accuracy | > 80% |
+| Test Accuracy | > 80% | 
 
 ---
 
