@@ -1,0 +1,94 @@
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =====================================
+# Virtual Environment
+# =====================================
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# =====================================
+# Dataset - Download dari Kaggle
+# =====================================
+datashet/
+data/
+dataset/
+*.zip
+*.tar.gz
+*.rar
+
+# =====================================
+# Model Weights (jika besar > 100MB)
+# =====================================
+models/*.h5
+models/*.hdf5
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.pkl
+models/*.joblib
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.onnx
+*.pkl
+*.joblib
+
+# =====================================
+# Training Logs & Checkpoints
+# =====================================
+logs/
+checkpoints/
+runs/
+*.log
+tensorboard/
+
+# =====================================
+# Jupyter Notebook
+# =====================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =====================================
+# IDE & Editor
+# =====================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Misc
+# =====================================
+*.tmp
+*.temp
+*.bak
+.cache/
