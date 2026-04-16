@@ -40,6 +40,7 @@ dataset/
 *.zip
 *.tar.gz
 *.rar
+*data_split/
 
 # =====================================
 # Model Weights (jika besar > 100MB)
